@@ -1,0 +1,131 @@
+/* About */
+
+.sponsor-ico {
+    padding:5px;
+    margin:15px;
+}
+
+#spons-1 {
+    width:150px;
+}
+
+#spons-2 {
+    width:200px;
+}
+
+#spons-3 {
+    width:200px;
+}
+
+#sponsors-table-small{
+    margin-left:auto;
+    margin-right:auto;
+    width:50%;
+    display:none;
+}
+
+/* Publications */
+
+.papers-table{
+    border: 2px solid darkgrey;
+}
+
+.papers-table-head{
+    background-color: #2222;
+    color: black;
+    font-weight: bold;
+}
+
+.papers-table-foot{
+    background-color: darkgrey;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+}
+
+.pub-tab {
+    background-color: #2222;
+    color: black;
+}
+
+/* Team */
+
+.circular-portrait {
+    position: relative;
+    width: 100px;
+    height: 100px;
+    overflow: hidden;
+    border-radius: 50%;
+    border-color: black;
+    box-shadow: 0 0 8px rgba(0, 0, 0, .8);
+    -webkit-box-shadow: 0 0 8px rgba(0, 0, 0, .8);
+    -moz-box-shadow: 0 0 8px rgba(0, 0, 0, .8);
+}
+
+.circular-portrait-mini{
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    overflow: hidden;
+    border-radius: 50%;
+    border-color: black;
+    box-shadow: 0 0 8px rgba(0, 0, 0, .8);
+    -webkit-box-shadow: 0 0 8px rgba(0, 0, 0, .8);
+    -moz-box-shadow: 0 0 8px rgba(0, 0, 0, .8);
+
+}
+
+
+
+.small-uni-txt{
+    font-weight: normal;
+    font-size:12px;
+}
+
+.circularportrait-img {
+    width: 100%;
+    height: auto;
+}
+
+
+#collaborators-table{
+    border-spacing: 10px;
+    border-collapse: separate;
+    width:100%;
+}
+
+#collaborators-table-small{
+    border-spacing: 10px;
+    border-collapse: separate;
+    width:100%;
+    display:none;
+}
+
+.col-cell-bio{
+    padding:10px;
+    background-color:#2222;
+    color:black;
+    font-weight: bold;
+    text-align: center;
+    margin:5px;
+    width:25%;
+    height:80px;
+
+    overflow: hidden;
+    text-overflow:ellipsis;
+}
+
+.no-select {
+     -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+     user-select: none;
+}
+
+
+.centre-text-container {
+    text-align: center;
+    text-align: justify;
+}
+
+
