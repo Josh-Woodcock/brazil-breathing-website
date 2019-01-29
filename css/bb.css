@@ -128,4 +128,47 @@
     text-align: justify;
 }
 
+#bio-table{
+    width:90%;
+}
+
+#collaborators-table{
+    border-spacing: 10px;
+    border-collapse: separate;
+    width:100%;
+}
+
+.bio-pic{
+    width: 10%;
+}
+
+.circularportrait-img {
+    width: 100%;
+    height: auto;
+}
+
+.primary-bio-text{
+    width: 20%;
+    padding:10px;
+}
+
+/* Index  */
+
+#platform-table {
+    table-layout: fixed;
+    border-collapse: collapse;
+    border-spacing: 0;
+    width:100%;
+    text-align:center;
+}
+
+.platform-ico {
+    width:100px;
+    padding:5px;
+}
+
+.platform-text {
+    color: #33B5E5;
+}
+
 
