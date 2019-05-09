@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Team
+title: Quem Somos
 permalink: /quem_somos/
 ---
 
