@@ -14,7 +14,7 @@ Brazil Breathing builds on the data and expertise of the Britain Breathing proje
 
 Funding for the project was provided by the **Turing Institute**: Understanding the relationship between human health and the environment and the between human health and the environment, and the **EPSRC** (EP/R512734/1). -->
 
-/#BrazilBreathing é um projeto de cidadãos cientistas visando engajar a população brasileira a relatar informações sobre o impacto do ambiente em sua saúde e na intensidade de seus sintomas alérgicos. 
+\#BrazilBreathing é um projeto de cidadãos cientistas visando engajar a população brasileira a relatar informações sobre o impacto do ambiente em sua saúde e na intensidade de seus sintomas alérgicos. 
 O projeto é uma colaboração internacional entre a University of Manchester (Reino Unido) e o Laboratório de Poluição do Ar e Clima Urbano da Universidade Tecnológica Federal do Paraná.
 
 O Brazil Breathing se baseia na experiências do projeto [Britain Breathing](http://britainbreathing.org) em execução no Reino Unido desde 2017.
