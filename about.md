@@ -22,6 +22,4 @@ O Brazil Breathing se baseia na experiências do projeto [Britain Breathing](htt
 A iniciativa é financiada pelo **Turing Institute** através do projeto “Understanding the relationship between human health and the environment and the between human health and the environment” e pelo Engineering and Physical Sciences Research Council 
 **EPSRC** (EP/R512734/1)
 
-
-
 {% include sponsors.html %}
