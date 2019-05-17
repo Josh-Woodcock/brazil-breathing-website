@@ -19,7 +19,7 @@ O projeto é uma colaboração internacional entre a University of Manchester (R
 
 O Brazil Breathing se baseia na experiências do projeto [Britain Breathing](http://britainbreathing.org) em execução no Reino Unido desde 2017.
 
-A iniciativa é financiada pelo **Turing Institute** através do projeto “Understanding the relationship between human health and the environment and the between human health and the environment” e pelo Engineering and Physical Sciences Research Council 
+A iniciativa é financiada pelo **Turing Institute** através do projeto “Understanding the relationship between human health and the environment” e pelo Engineering and Physical Sciences Research Council 
 **EPSRC** (EP/R512734/1)
 
 {% include sponsors.html %}
